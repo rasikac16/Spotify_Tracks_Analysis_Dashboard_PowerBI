@@ -26,10 +26,9 @@ o	Average Popularity = AVERAGE(Popularity)
 •	Genre Wise Average Popularity (Bar chart).
 •	Genre Wise Total Tracks (Pie chart).
 •	Genre (Slicer).
-
 ## Multivariate Analysis:
-1.	    Bar chart to find Top 10 average popularity by genre and name.
-2.	   Decomposition tree to compare Sum of duration(min), Sum of Popularity, Artist,   Name and Album by name.
+ *Bar chart to find Top 10 average popularity by genre and name.
+ *Decomposition tree to compare Sum of duration(min), Sum of Popularity, Artist,   Name and Album by name.
 ## Deliverables
 •	Cleaned Spotify dataset (Excel/CSV).
 •	Power BI Dashboard showcasing insights.
