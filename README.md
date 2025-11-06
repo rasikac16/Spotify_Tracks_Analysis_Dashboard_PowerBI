@@ -1,5 +1,4 @@
 # Spotify_Tracks_Analysis_Dashboard_PowerBI
-<img width="957" height="707" alt="Screenshot 2025-11-06 172754" src="https://github.com/user-attachments/assets/04b8e892-dfbe-4e0b-b00f-b0150acf91ee" />
 ## Project Overview
 This project uses the Spotify dataset, which contains detailed information about songs, artists, genres, popularity, and audio features. Using Power BI (or Excel), the objective is to analyse music trends, artist performance, and track characteristics to understand what drives song popularity and listener engagement.
 ## Dataset Description
